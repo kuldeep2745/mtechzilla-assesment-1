@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/mtechzilla-assesment-1/static/css/main.ccf6f46c.css",
+    "main.js": "/mtechzilla-assesment-1/static/js/main.791c3c46.js",
+    "static/js/787.9f920496.chunk.js": "/mtechzilla-assesment-1/static/js/787.9f920496.chunk.js",
+    "static/media/profilepic.jpg": "/mtechzilla-assesment-1/static/media/profilepic.74ad926db08e5b6bed2d.jpg",
+    "index.html": "/mtechzilla-assesment-1/index.html",
+    "main.ccf6f46c.css.map": "/mtechzilla-assesment-1/static/css/main.ccf6f46c.css.map",
+    "main.791c3c46.js.map": "/mtechzilla-assesment-1/static/js/main.791c3c46.js.map",
+    "787.9f920496.chunk.js.map": "/mtechzilla-assesment-1/static/js/787.9f920496.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ccf6f46c.css",
+    "static/js/main.791c3c46.js"
+  ]
+}
